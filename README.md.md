@@ -1,0 +1,24 @@
+# Simple Python Calculator
+
+This is a beginner-level Python command-line calculator. It supports:
+
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+
+## How to Run
+
+Make sure you have Python installed. In your terminal:
+
+```bash
+python calculator.py
+
+What I Learned
+How to use input() and float()
+
+Writing simple if conditions
+
+Handling user input and errors
+
+Creating and calling functions in Python
